@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0064-minimum-path-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 ## Math
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
