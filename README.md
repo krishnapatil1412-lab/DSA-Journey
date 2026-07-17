@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0031-next-permutation) |
 | [0047-permutations-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0219-contains-duplicate-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0031-next-permutation) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
