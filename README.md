@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0220-contains-duplicate-iii) |
+| [0274-h-index](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0220-contains-duplicate-iii) |
+| [0274-h-index](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0791-custom-sort-string) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1122-relative-sort-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
