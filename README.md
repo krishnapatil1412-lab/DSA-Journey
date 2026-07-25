@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0067-add-binary) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 ## Greedy
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
+| [0067-add-binary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0220-contains-duplicate-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
