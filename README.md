@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0791-custom-sort-string) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0409-longest-palindrome) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0791-custom-sort-string) |
@@ -108,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Linked List
 |  |
 | ------- |
