@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0791-custom-sort-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0047-permutations-ii) |
+| [0257-binary-tree-paths](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0257-binary-tree-paths) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,4 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
