@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0056-merge-intervals) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0257-binary-tree-paths) |
 ## Two Pointers
