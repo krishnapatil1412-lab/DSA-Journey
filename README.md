@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0791-custom-sort-string) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
 | [1122-relative-sort-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
