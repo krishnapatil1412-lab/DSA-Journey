@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
+| [1089-duplicate-zeros](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0917-reverse-only-letters](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0917-reverse-only-letters) |
+| [1089-duplicate-zeros](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
