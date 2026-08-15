@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0220-contains-duplicate-iii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Linked List
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0202-happy-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
