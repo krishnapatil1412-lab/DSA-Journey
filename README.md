@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0409-longest-palindrome) |
+| [0541-reverse-string-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0791-custom-sort-string) |
 | [0917-reverse-only-letters](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0917-reverse-only-letters) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0541-reverse-string-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0917-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
