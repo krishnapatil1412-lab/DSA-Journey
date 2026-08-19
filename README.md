@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1089-duplicate-zeros](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1122-relative-sort-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0791-custom-sort-string) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1200-minimum-absolute-difference) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1122-relative-sort-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
