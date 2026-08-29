@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0368-largest-divisible-subset) |
+| [0633-sum-of-square-numbers](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 ## Greedy
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0633-sum-of-square-numbers](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2540-minimum-common-value) |
 ## Linked List
