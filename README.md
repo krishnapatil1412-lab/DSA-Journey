@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1763-longest-nice-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1763-longest-nice-substring) |
 | [2367-number-of-arithmetic-triplets](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2367-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2540-minimum-common-value) |
 ## Counting Sort
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0942-di-string-match) |
 | [1023-camelcase-matching](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1023-camelcase-matching) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1763-longest-nice-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1763-longest-nice-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1763-longest-nice-substring) |
 ## Trie
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [1763-longest-nice-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0832-flipping-an-image) |
+| [1763-longest-nice-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1763-longest-nice-substring) |
 ## Simulation
 |  |
 | ------- |
