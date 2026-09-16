@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0969-pancake-sorting](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
+| [1754-largest-merge-of-two-strings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1754-largest-merge-of-two-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1023-camelcase-matching) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1332-remove-palindromic-subsequences](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1332-remove-palindromic-subsequences) |
+| [1754-largest-merge-of-two-strings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1754-largest-merge-of-two-strings) |
 | [1763-longest-nice-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1754-largest-merge-of-two-strings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
