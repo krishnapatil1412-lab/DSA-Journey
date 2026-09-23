@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0409-longest-palindrome) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0344-reverse-string) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0220-contains-duplicate-iii) |
