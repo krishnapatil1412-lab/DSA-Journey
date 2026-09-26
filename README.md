@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2367-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2540-minimum-common-value) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Dynamic Programming
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1763-longest-nice-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1763-longest-nice-substring) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Trie
 |  |
