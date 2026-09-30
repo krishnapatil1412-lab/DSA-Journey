@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2367-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Search
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0832-flipping-an-image) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Tree
 |  |
 | ------- |
