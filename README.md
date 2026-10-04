@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0064-minimum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0392-is-subsequence) |
+| [0466-count-the-repetitions](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0466-count-the-repetitions) |
 | [0647-palindromic-substrings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0647-palindromic-substrings) |
 ## Matrix
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0466-count-the-repetitions](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0466-count-the-repetitions) |
 | [0541-reverse-string-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0567-permutation-in-string) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0455-assign-cookies) |
+| [0466-count-the-repetitions](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0466-count-the-repetitions) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
