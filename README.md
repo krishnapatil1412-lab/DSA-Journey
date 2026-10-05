@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0791-custom-sort-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0942-di-string-match) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0942-di-string-match) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [2562-find-the-array-concatenation-value](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2562-find-the-array-concatenation-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Tree
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 ## Pigeonhole Principle
 |  |
