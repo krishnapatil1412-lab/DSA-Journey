@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0064-minimum-path-sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0368-largest-divisible-subset) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
