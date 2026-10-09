@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0202-happy-number) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
