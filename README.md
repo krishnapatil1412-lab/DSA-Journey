@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1754-largest-merge-of-two-strings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1754-largest-merge-of-two-strings) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1754-largest-merge-of-two-strings) |
 | [1763-longest-nice-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1768-merge-strings-alternately) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1754-largest-merge-of-two-strings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1768-merge-strings-alternately) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
