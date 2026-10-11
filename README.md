@@ -365,16 +365,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Geometry
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0100-same-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
