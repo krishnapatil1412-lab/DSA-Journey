@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1754-largest-merge-of-two-strings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1754-largest-merge-of-two-strings) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2109-adding-spaces-to-a-string) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2109-adding-spaces-to-a-string) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0844-backspace-string-compare) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 ## Pigeonhole Principle
 |  |
@@ -435,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
