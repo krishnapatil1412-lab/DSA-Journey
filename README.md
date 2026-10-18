@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0821-shortest-distance-to-a-character](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0832-flipping-an-image) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0791-custom-sort-string) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0696-count-binary-substrings) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0821-shortest-distance-to-a-character](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0844-backspace-string-compare) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2540-minimum-common-value) |
 ## Linked List
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0658-find-k-closest-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Quickselect
 |  |
 | ------- |
