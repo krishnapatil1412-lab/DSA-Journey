@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2109-adding-spaces-to-a-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Sliding Window
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1763-longest-nice-substring) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3364-minimum-positive-sum-subarray) |
