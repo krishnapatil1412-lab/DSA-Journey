@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0954-array-of-doubled-pairs) |
+| [0962-maximum-width-ramp](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1023-camelcase-matching](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1023-camelcase-matching) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0969-pancake-sorting) |
 | [1023-camelcase-matching](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1023-camelcase-matching) |
 | [1089-duplicate-zeros](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1089-duplicate-zeros) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0844-backspace-string-compare) |
+| [0962-maximum-width-ramp](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0962-maximum-width-ramp) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 ## Pigeonhole Principle
@@ -479,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
