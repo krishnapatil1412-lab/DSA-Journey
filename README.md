@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0645-set-mismatch) |
