@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2653-sliding-subarray-beauty) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3992-rearrange-string-to-avoid-character-pair) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2540-minimum-common-value) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Linked List
 |  |
 | ------- |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2122-recover-the-original-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2122-recover-the-original-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2367-number-of-arithmetic-triplets) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
