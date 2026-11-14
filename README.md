@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
+| [0769-max-chunks-to-make-sorted](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0821-shortest-distance-to-a-character](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0832-flipping-an-image) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0763-partition-labels) |
+| [0769-max-chunks-to-make-sorted](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0769-max-chunks-to-make-sorted) |
 | [0870-advantage-shuffle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0870-advantage-shuffle) |
 | [0942-di-string-match](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0942-di-string-match) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
+| [0769-max-chunks-to-make-sorted](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0791-custom-sort-string) |
 | [0870-advantage-shuffle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0870-advantage-shuffle) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0962-maximum-width-ramp) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -502,5 +506,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0769-max-chunks-to-make-sorted) |
 | [0962-maximum-width-ramp](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
