@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2122-recover-the-original-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2122-recover-the-original-array) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Dynamic Programming
 |  |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Search
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-recover-the-original-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2122-recover-the-original-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2367-number-of-arithmetic-triplets) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
