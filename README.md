@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0832-flipping-an-image) |
 | [0870-advantage-shuffle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0870-advantage-shuffle) |
+| [0923-3sum-with-multiplicity](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0923-3sum-with-multiplicity) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
 | [0942-di-string-match](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0942-di-string-match) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0791-custom-sort-string) |
 | [0870-advantage-shuffle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0870-advantage-shuffle) |
+| [0923-3sum-with-multiplicity](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0923-3sum-with-multiplicity) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0948-bag-of-tokens) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0763-partition-labels](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0791-custom-sort-string) |
+| [0923-3sum-with-multiplicity](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0923-3sum-with-multiplicity) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
 | [0954-array-of-doubled-pairs](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0954-array-of-doubled-pairs) |
 | [1122-relative-sort-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1122-relative-sort-array) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
+| [0923-3sum-with-multiplicity](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0923-3sum-with-multiplicity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1122-relative-sort-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [0870-advantage-shuffle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0870-advantage-shuffle) |
 | [0917-reverse-only-letters](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0917-reverse-only-letters) |
+| [0923-3sum-with-multiplicity](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0923-3sum-with-multiplicity) |
 | [0925-long-pressed-name](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0948-bag-of-tokens) |
