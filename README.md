@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0769-max-chunks-to-make-sorted](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0466-count-the-repetitions](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0466-count-the-repetitions) |
 | [0647-palindromic-substrings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0647-palindromic-substrings) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1652-defuse-the-bomb](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1763-longest-nice-substring) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2540-minimum-common-value) |
@@ -521,4 +525,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0769-max-chunks-to-make-sorted) |
 | [0962-maximum-width-ramp](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0962-maximum-width-ramp) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
