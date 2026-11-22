@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1023-camelcase-matching](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1023-camelcase-matching) |
+| [1048-longest-string-chain](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1200-minimum-absolute-difference) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0954-array-of-doubled-pairs) |
 | [0969-pancake-sorting](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
+| [1048-longest-string-chain](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0466-count-the-repetitions) |
 | [0647-palindromic-substrings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1048-longest-string-chain](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1048-longest-string-chain) |
 ## Matrix
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0923-3sum-with-multiplicity) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
 | [0954-array-of-doubled-pairs](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0954-array-of-doubled-pairs) |
+| [1048-longest-string-chain](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0942-di-string-match) |
 | [1023-camelcase-matching](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1023-camelcase-matching) |
+| [1048-longest-string-chain](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1048-longest-string-chain) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1332-remove-palindromic-subsequences](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1332-remove-palindromic-subsequences) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -344,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0969-pancake-sorting) |
 | [1023-camelcase-matching](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1023-camelcase-matching) |
+| [1048-longest-string-chain](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
