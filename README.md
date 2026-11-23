@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0832-flipping-an-image) |
 | [0870-advantage-shuffle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0870-advantage-shuffle) |
+| [0904-fruit-into-baskets](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0923-3sum-with-multiplicity) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
 | [0942-di-string-match](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0942-di-string-match) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0763-partition-labels](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0791-custom-sort-string) |
+| [0904-fruit-into-baskets](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0923-3sum-with-multiplicity) |
 | [0939-minimum-area-rectangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0939-minimum-area-rectangle) |
 | [0954-array-of-doubled-pairs](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0954-array-of-doubled-pairs) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0904-fruit-into-baskets](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1652-defuse-the-bomb](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1763-longest-nice-substring) |
