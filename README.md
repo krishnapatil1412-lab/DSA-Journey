@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1652-defuse-the-bomb) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1754-largest-merge-of-two-strings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1754-largest-merge-of-two-strings) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1754-largest-merge-of-two-strings](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1754-largest-merge-of-two-strings) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1768-merge-strings-alternately](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1023-camelcase-matching](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1023-camelcase-matching) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -542,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/krishnapatil1412-lab/DSA-Journey/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 <!---LeetCode Topics End-->
